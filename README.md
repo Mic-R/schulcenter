@@ -15,3 +15,8 @@
  <p>
   I am currently looking for helpers on this project, if you are interested, create an issue
  </p>
+</br>
+<p>
+  Logo creation and design: Canva Pro
+  Framework: cordova
+</p>
