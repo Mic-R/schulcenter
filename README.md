@@ -1,2 +1,2 @@
 # schulcenter
-A easy way for german schools to store school data securely!
+<img src="https://raw.githubusercontent.com/Mic-R/schulcenter/main/assets/Schulcenter.png"/> 
