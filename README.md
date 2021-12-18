@@ -17,6 +17,7 @@
  </p>
 </br>
 <p>
-  Logo creation and design: Canva Pro
+  Logo creation and design: Canva Pro 
+</br>
   Framework: cordova
 </p>
