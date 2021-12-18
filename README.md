@@ -1,2 +1,2 @@
 # schulcenter
-<img src="/assets/logo.png"/> 
+<img src="https://raw.githubusercontent.com/Mic-R/schulcenter/main/assets/Schulcenter.png"/> 
