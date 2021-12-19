@@ -10,7 +10,7 @@
   Are you fed up of your school having bad communcation systems and/or a horrible infrastructure? Then here is a solution for you! The "Schulcenter"!
 </p>
 <p>
-  This is a central system for teachers, students and parents, it includes a chat solution, a timetable, absents, a letter inbox, absents, ...
+  This is a central system for teachers, students and parents, it includes a chat solution, a timetable, absents, a letter inbox, ...
  </p>
  <p>
   I am currently looking for helpers on this project, if you are interested, create an issue
